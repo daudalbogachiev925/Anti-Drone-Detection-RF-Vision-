@@ -1,0 +1,6 @@
+detector:
+  min_area: 20
+  max_area: 5000
+threat:
+  distance_warning: 500
+  distance_critical: 200
